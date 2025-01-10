@@ -9,6 +9,8 @@
 ## Overview
 The Colors class provides utility functions for handling color values across different formats including integers, hexadecimal, and RGB arrays. This class simplifies color format conversions commonly used in 4D applications.
 
+The class is well suited to be a singleton.
+
 ## Class Methods
 
 ### rgbToInteger ($r : Variant; $g : Integer; $b : Integer) : Integer
