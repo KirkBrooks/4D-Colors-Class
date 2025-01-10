@@ -17,7 +17,7 @@ Converts RGB values to a 32-bit integer representation.
 **Parameters:**
 | Parameter | Data Type | Description |
 |-----------|-----------|-------------|
-| $r | Variant | Either red component (0-255) or collection of [r,g,b] values |
+| $r | Variant | Either red component (0-255) <br>or collection of [r,g,b] values |
 | $g | Integer | Green component (0-255) |
 | $b | Integer | Blue component (0-255) |
 
@@ -56,7 +56,7 @@ Converts RGB values to hexadecimal color representation.
 **Parameters:**
 | Parameter | Data Type | Description |
 |-----------|-----------|-------------|
-| $r | Variant | Red component (0-255) or collection of [r,g,b] or integer color value |
+| $r | Variant | Red component (0-255) <br>or collection of [r,g,b] <br>or integer color value |
 | $g | Integer | Green component (0-255), optional |
 | $b | Integer | Blue component (0-255), optional |
 
